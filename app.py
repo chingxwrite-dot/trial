@@ -9,7 +9,7 @@ st.set_page_config(page_title="MoCA", page_icon="🎮", layout="wide")
 # logout_button()
 
 # 3. Build the Sidebar
-st.sidebar.header("MoCA Game")
+st.sidebar.header("Game")
 
 # 4. Define the pages (This creates the navigation menu!)
 pages = {
